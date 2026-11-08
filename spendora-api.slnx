@@ -1,7 +1,7 @@
 <Solution>
-  <Project Path="../../../../../../Documents/Proyectos/Spendora/spendora-api/Spendora.Api/Spendora.Api.csproj" Id="4a48d133-0e54-4179-9615-697fbb53cab0" />
-  <Project Path="../../../../../../Documents/Proyectos/Spendora/spendora-api/Spendora.Application/Spendora.Application.csproj" Id="350f0afa-985a-45e1-9bdd-2d3d39204e87" />
-  <Project Path="../../../../../../Documents/Proyectos/Spendora/spendora-api/Spendora.Domain/Spendora.Domain.csproj" Id="6acb5e53-f228-40ff-8197-b36f2c1184ef" />
-  <Project Path="../../../../../../Documents/Proyectos/Spendora/spendora-api/Spendora.Infrastructure/Spendora.Infrastructure.csproj" Id="a5b88706-50d7-48ed-84d3-b20ff90dad7f" />
-  <Project Path="../../../../../../Documents/Proyectos/Spendora/spendora-api/Spendora.Test/Spendora.Test.csproj" Id="02aabff6-64f5-4e79-9bd8-cde9287f9eb5" />
+  <Project Path="Spendora.Api/Spendora.Api.csproj" />
+  <Project Path="Spendora.Application/Spendora.Application.csproj" />
+  <Project Path="Spendora.Domain/Spendora.Domain.csproj" />
+  <Project Path="Spendora.Infrastructure/Spendora.Infrastructure.csproj" />
+  <Project Path="Spendora.Test/Spendora.Test.csproj" />
 </Solution>

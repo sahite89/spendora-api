@@ -8,6 +8,18 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.12" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="10.0.14">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="10.0.14" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="10.3.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Spendora.Application\Spendora.Application.csproj" />
+    <ProjectReference Include="..\Spendora.Domain\Spendora.Domain.csproj" />
+    <ProjectReference Include="..\Spendora.Infrastructure\Spendora.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
