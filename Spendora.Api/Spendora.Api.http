@@ -1,0 +1,6 @@
+@Spendora.Api_HostAddress = http://localhost:5192
+
+GET {{Spendora.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
