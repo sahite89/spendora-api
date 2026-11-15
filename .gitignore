@@ -71,10 +71,3 @@ Thumbs.db
 # JetBrains Rider
 # ==========================================
 .idea/
-
-# ==========================================
-# Node / Angular (si existe frontend)
-# ==========================================
-node_modules/
-dist/
-.angular/

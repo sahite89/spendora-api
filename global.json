@@ -1,4 +1,10 @@
 {
+  "sdk": {
+    "rollForward": "latestMajor",
+    "version": "10.0.100",
+	"allowPrerelease": false,
+	"errorMessage": "Instala el SDK de .NET 10 o superior"
+  },
   "test": {
     "runner": "Microsoft.Testing.Platform"
   }
