@@ -3,5 +3,5 @@
   <Project Path="Spendora.Application/Spendora.Application.csproj" />
   <Project Path="Spendora.Domain/Spendora.Domain.csproj" />
   <Project Path="Spendora.Infrastructure/Spendora.Infrastructure.csproj" />
-  <Project Path="Spendora.Test/Spendora.Test.csproj" />
+  <Project Path="Spendora.Tests/Spendora.Tests.csproj" />
 </Solution>
